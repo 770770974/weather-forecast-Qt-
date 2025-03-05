@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/pm2.5.png</file>
+        <file>res/风向.png</file>
+        <file>res/空气质量 (1).png</file>
+        <file>res/温度.png</file>
+    </qresource>
+</RCC>

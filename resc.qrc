@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/ari (1).png</file>
+        <file>res/pm2.5.png</file>
+        <file>res/wind.png</file>
+        <file>res/shidu.png</file>
+        <file>res/search.png</file>
+        <file>res/sun.png</file>
+        <file>res/cloudy.png</file>
+        <file>res/yin.png</file>
+        <file>res/quit.png</file>
+        <file>res/baoxue.png</file>
+        <file>res/baoyudaodabaoyu.png</file>
+        <file>res/cloudy.png</file>
+        <file>res/dabaoyu.png</file>
+        <file>res/dadaobaoxue.png</file>
+        <file>res/dayu.png</file>
+        <file>res/dongyu.png</file>
+        <file>res/fuchen.png</file>
+        <file>res/leizhenyu.png</file>
+        <file>res/leizhenyubanyoubingbao.png</file>
+        <file>res/mai.png</file>
+        <file>res/pm2.5.png</file>
+        <file>res/qiangshachenbao.png</file>
+        <file>res/qing.png</file>
+        <file>res/shachenbao.png</file>
+        <file>res/sun.png</file>
+        <file>res/tedabaoyu.png</file>
+        <file>res/wu.png</file>
+        <file>res/xiaodaozhongxue.png</file>
+        <file>res/xiaodaozhongyu.png</file>
+        <file>res/xiaoxue.png</file>
+        <file>res/xiaoyu.png</file>
+        <file>res/xue.png</file>
+        <file>res/yangsha.png</file>
+        <file>res/yin.png</file>
+        <file>res/yu.png</file>
+        <file>res/yujiaxue.png</file>
+        <file>res/zhenxue.png</file>
+        <file>res/zhenyu.png</file>
+        <file>res/zhongdaodaxue.png</file>
+        <file>res/zhongdaodayu.png</file>
+        <file>res/zhongxue.png</file>
+        <file>res/zhongyu.png</file>
+    </qresource>
+    <qresource prefix="/file">
+        <file>2019-03-13-cn_weather_citylist.json</file>
+    </qresource>
+</RCC>
